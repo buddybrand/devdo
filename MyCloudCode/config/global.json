@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "devdo"
+        }, 
+        "devdo": {
+            "applicationId": "66PKWk3w4TbNRzHhRhqPelxGfsa8WZSAAwSuqRKZ", 
+            "masterKey": "8gHbTlHwaWwulTs7lIhk6Ih13dDHjeQcUWzkfh94"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.12"
+    }
+}
